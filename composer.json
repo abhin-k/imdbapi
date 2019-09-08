@@ -7,6 +7,6 @@
             "email": "abhin@accubits.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
