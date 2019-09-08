@@ -1,0 +1,12 @@
+{
+    "name": "abhin/imdb",
+    "description": "Laravel package for imdb api integration",
+    "authors": [
+        {
+            "name": "Abhin",
+            "email": "abhin@accubits.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
